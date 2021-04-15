@@ -69,7 +69,7 @@
     }
 }
 
-@media screen and (max-width: 380px){
+@media screen and (max-width: 400px){
     .imagem_pequena{
         width: 320px;
         height: 200px;
