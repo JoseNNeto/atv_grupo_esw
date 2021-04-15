@@ -16,14 +16,17 @@
     
     
     .borda{
-        width: 650px;
-        height: 300px;
+        width: 97%;
+        height: 330px;
         border-radius: 30px;
-        background-color:#023c64;    
+        background-color:#023c64;
+        box-shadow: 5px 5px 15px rgba(0,0,0,0.9);   
+        margin-left: auto;
+        margin-right: auto;  
     }
     
     p{
-        font-family: 'American Typewriter', 'serif';
+        font-family: 'Poppins', sans-serif;
         text-decoration: none;
         color:black ;
         font-size: 20px;
@@ -46,23 +49,23 @@
     }
 
     .imagem_pequena{
-        width: 300px;
-
+        width: 320px;
         padding: 2% 2%;
         border-radius: 30px;
     }
     
     .borda{
-        width: 420x;
-        height: 300px;
+        width: 335px;
+        height: 600px;
         border-radius: 30px;
         background-color:#023c64;
         margin-left: auto; 
-        margin-right: auto;     
+        margin-right: auto;
+        box-shadow: 5px 5px 15px rgba(0,0,0,0.9);     
     }
     
     p{
-        font-family: 'American Typewriter', 'serif';
+        font-family: 'Poppins', sans-serif;
         text-decoration: none;
         color:black ;
         font-size: 20px;
@@ -86,12 +89,11 @@
     
     .borda{
         width: 340px;
-        height: 500px;
-        border-top-left-radius: 30px;
-        border-top-right-radius: 30px;
+        height: 550px;
         background-color:#023c64;
         margin-left: auto; 
-        margin-right: auto;   
+        margin-right: auto;
+        box-shadow: 5px 5px 15px rgba(0,0,0,0.9);    
     }
     
     p{
@@ -157,7 +159,7 @@ button:hover{
     background-color: #327baf;
 }
 
-h1{
+h1, h2{
     font-family: 'Poppins', sans-serif;
     color: #edf0f1;
     text-decoration: none;
